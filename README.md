@@ -28,6 +28,11 @@ ________________________________________________________________________________
 <br>
 <br>
   
+  <div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sartorisos&hide_border=true&theme=dark&show_icons=true&icon_color=5658dd">
+  <img width="356" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sartorisos&layout=compact&hide_border=true&theme=dark&show_icons=true&icon_color=5658dd">
+</div>
+<br/>
   
   ________________________________________________________________________________________________________________________________
  
