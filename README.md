@@ -45,3 +45,5 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fehsartori/)
    <br>
 [![Gmail Badge](https://img.shields.io/badge/-fehsartorisos@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fehsartorisos@gmail.com)](mailto:fehsartorisos@gmail.com)
+  
+  ![Snake animation](https://github.com/Sartorisos/Sartorisos/blob/output/github-contribution-grid-snake.svg)
