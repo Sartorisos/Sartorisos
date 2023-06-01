@@ -1,4 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=Sartorisos&color=006bed)
+ 
 
 
 <h2> Olá, Eu sou Fernando Sartori, Desenvolvedor de Software <h2/>
@@ -46,4 +47,4 @@
    <br>
 [![Gmail Badge](https://img.shields.io/badge/-fehsartorisos@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fehsartorisos@gmail.com)](mailto:fehsartorisos@gmail.com)
   
-  ![Snake animation](https://github.com/Sartorisos/Sartorisos/blob/output/github-contribution-grid-snake.svg)
+ 
