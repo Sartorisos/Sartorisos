@@ -1,4 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=Sartorisos&color=006bed)
+
+
  
 
 
@@ -6,7 +8,10 @@
 
 <div>
   <img src="https://github-readme-stats.zohan.tech/api?username=Sartorisos&hide_border=true&theme=dark&show_icons=true&icon_color=5658dd">
-  <img width="356" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=Sartorisos&layout=compact&hide_border=true&theme=dark&show_icons=true&icon_color=5658dd">
+
+   <img width="413" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=Sartorisos&layout=compact&hide_border=true&theme=dark&show_icons=true&icon_color=5658dd">
+
+ 
 </div>
 <br/>
   
