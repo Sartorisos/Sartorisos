@@ -4,7 +4,7 @@
  
 
 
-<h2> Olá, Eu sou Fernando Sartori, Desenvolvedor de Software <h2/>
+<h1> Hi There! I´m Fernando Sartori, Software Enginner <h1/>
 
 <div>
   <img src="https://github-readme-stats.zohan.tech/api?username=Sartorisos&hide_border=true&theme=dark&show_icons=true&icon_color=5658dd">
@@ -30,7 +30,7 @@
   <a href="https://www.w3schools.com/typescript/" target="_blank"><img align="center" alt="TypeScript" height="50" width="60" title="TypeScript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"></a>
   <a href="https://www.w3schools.com/java/" target="_blank"><img align="center" alt="Java" height="50" width="60" title="Java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></a>
   <br><br>
-  <h2>Click no ícone ☝🏻 para saber mais.</h2>
+  <h2>Click on the icons ☝🏻 to know more about them.</h2>
 </div>
 
 ##
@@ -42,7 +42,7 @@
   
   ________________________________________________________________________________________________________________________________
  
- <h2> :earth_americas: &nbsp;Onde me encontrar: </h2> 
+ <h2> :earth_americas: &nbsp;You can also find me here: </h2> 
   
   <div> 
 
