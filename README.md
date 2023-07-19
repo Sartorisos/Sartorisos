@@ -4,7 +4,9 @@
  
 
 
-<h1> Hi There! I´m Fernando Sartori, Software Enginner <h1/>
+<h1> Hi There! I´m Fernando Sartori, Software Developer <h1/>
+
+<h5>Currently playing the role Software Developer. Passionate about technology from the first contact, I'm always acquiring knowledge beyond the professional environment.<h5/>
 
 <div>
   <img src="https://github-readme-stats.zohan.tech/api?username=Sartorisos&hide_border=true&theme=dark&show_icons=true&icon_color=5658dd">
