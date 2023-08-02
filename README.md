@@ -45,13 +45,15 @@
   ________________________________________________________________________________________________________________________________
  
  <h2> :earth_americas: &nbsp;You can also find me here: </h2> 
-  
-  <div> 
+ 
+<div> 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-sartori-60659425a/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@Sartorisos)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fehsartori/)
    <br>
 [![Gmail Badge](https://img.shields.io/badge/-fehsartorisos@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fehsartorisos@gmail.com)](mailto:fehsartorisos@gmail.com)
+##
+<h2>If you have any doubt or suggestion, fell free to contact me!</h2>
   
  
