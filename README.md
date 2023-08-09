@@ -8,7 +8,7 @@
 
 <h3>Currently playing the role Software Developer. Passionate about technology from the first contact, I'm always acquiring knowledge beyond the professional environment.<h3/>
 
-<H5>The act of failing is the indication that you're on the frontier. The day you make no mistakes is the day you have taken the low-risk path to nowhere. 
+<H4>The act of failing is the indication that you're on the frontier. The day you make no mistakes is the day you have taken the low-risk path to nowhere. 
  <br><br>
  Neil deGrasse Tyson
 </H5>
