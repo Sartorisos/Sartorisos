@@ -8,7 +8,7 @@
 
 <h3>Currently playing the role Software Developer. Passionate about technology from the first contact, I'm always acquiring knowledge beyond the professional environment.<h3/>
 
-
+</h5>
 
 
 <div>
