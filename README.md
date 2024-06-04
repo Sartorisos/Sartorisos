@@ -29,13 +29,16 @@
 
 <div align="center">
   <a href="https://www.w3schools.com/html/" target="_blank"><img align="center" alt="HTML" height="50" width="60" title="Html" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img align="center" alt="CSS" height="50" width="60" title="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
+ <a href="https://www.w3schools.com/css/" target="_blank"><img align="center" alt="CSS" height="50" width="60" title="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
   <a href="https://www.w3schools.com/js/" target="_blank"><img align="center" alt="JS" height="50" width="60" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
   <a href="https://www.w3schools.com/typescript/" target="_blank"><img align="center" alt="TypeScript" height="50" width="60" title="TypeScript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"></a>
   <img align="center" alt="Angular" height="50" width="60" title="Angular" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"></a>
  <a href="https://www.w3schools.com/react/" target="_blank"><img align="center" alt="React" height="50" width="60" title="React" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"></a>
  <a href="https://www.w3schools.com/java/" target="_blank"><img align="center" alt="Java" height="50" width="60" title="Java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></a>
-  <br><br>
+ <a href="https://www.w3schools.com/python/default.asp" target="_blank"><img align="center" alt="PYTHON" height="50" width="60" title="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"></a>
+<a href="https://www.w3schools.com/python/pandas/default.asp" target="_blank"><img align="center" alt="PANDAS" height="50" width="60" title="Pandas" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg"></a>
+<a href="https://www.w3schools.com/mysql/default.asp" target="_blank"><img align="center" alt="MYSQL" height="50" width="60" title="Mysql" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"></a>
+ <br><br>
   <h2>Click on the icons ☝🏻 to know more about them.</h2>
 </div>
 
