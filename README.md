@@ -38,6 +38,9 @@
  <a href="https://www.w3schools.com/python/default.asp" target="_blank"><img align="center" alt="PYTHON" height="50" width="60" title="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"></a>
 <a href="https://www.w3schools.com/python/pandas/default.asp" target="_blank"><img align="center" alt="PANDAS" height="50" width="60" title="Pandas" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg"></a>
 <a href="https://www.w3schools.com/mysql/default.asp" target="_blank"><img align="center" alt="MYSQL" height="50" width="60" title="Mysql" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"></a>
+ <a href="https://www.w3schools.com/postgresql/index.php" target="_blank"><img align="center" alt="POSTGRESQL" height="50" width="60" title="Postgresql" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"></a>
+ <a href="https://www.w3schools.com/mongodb/index.php" target="_blank"><img align="center" alt="MONGODB" height="50" width="60" title="Mongodb" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"></a>
+ <a href="https://www.w3schools.com/git/default.asp" target="_blank"><img align="center" alt="GIT" height="50" width="60" title="GIT" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"></a>
  <br><br>
   <h2>Click on the icons ☝🏻 to know more about them.</h2>
 </div>
